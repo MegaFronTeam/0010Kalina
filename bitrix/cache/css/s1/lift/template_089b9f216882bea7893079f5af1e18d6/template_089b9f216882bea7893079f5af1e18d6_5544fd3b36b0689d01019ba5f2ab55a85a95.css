@@ -2644,6 +2644,17 @@ h4 {
     width: 82%;
     max-width: 82%;
 }
+
+.typeLinkWrap {
+	pointer-events: none;
+}
+.typeLinkWrap__img {
+	position: relative;
+	display: block;
+	padding: 17px;
+	height: 230px;
+	text-decoration: none;
+}
 /* End */
 /* /local/templates/lift/components/bitrix/menu/top-new/style.css */
 /* /local/templates/lift/template_styles.css */
